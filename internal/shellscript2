@@ -1,0 +1,1 @@
+grep -v "word" <filename.txt> > tmpfile && mv tmpfile filename.txt 
