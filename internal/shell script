@@ -1,0 +1,6 @@
+#!/bin/bash
+var1=20
+var2=30
+if[$var1 - gt $var2]
+then echo "$var1 greater than $var2"
+fi
